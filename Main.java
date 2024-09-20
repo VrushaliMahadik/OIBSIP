@@ -2,7 +2,7 @@ import java.sql.*;
 import java.util.Scanner;
 import java.util.Random;
 
-public class Task1 {
+public class Main {
     private static final int min = 1000;
     private static final int max = 9999;
 
